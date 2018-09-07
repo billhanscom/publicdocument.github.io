@@ -2,25 +2,23 @@
 
 	/* publicdocument.org */
 
-
 html, body{
 	padding: 0px;
 	margin: 0px;
-	font-size: 15px;
-	font-family: Courier, "Courier", monospace;
 	background-color: #ffffff;
 	box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
-
 }
 
 body{
+	font-size: 1rem;
+	font-family: "Libre Baskerville", "Times New Roman", serif;
 	min-height: 100vh;
-	padding-bottom: 4rem;
-	padding-top: 2rem;
-	padding-left: 2rem;
+	padding-top: 5rem;
+	padding-left: 6rem;
 	padding-right: 2rem;
+	padding-bottom: 2rem;
 }
 
 div{
@@ -46,23 +44,18 @@ a{
 }
 
 a:link {
-	color: #9900ff;
+	color: #00FFFF;
 	text-decoration: none;
-}
-
-a:hover {
-	background-color: #9900ff;
-	color: #000000;
 }
 
 a:visited {
-	color: #9900ff;
+	color: #00FFFF;
 	text-decoration: none;
 }
 
 a:hover {
-	background-color: #9900ff;
-	color: #ffffff;
+	background-color: #FF00FF;
+	color: #FFFF00;
 }
 
 h2{
@@ -80,7 +73,19 @@ h3{
 	display: block;
 	position: relative;
 	font-size: 4rem;
-	line-height: 4.5rem;
+	line-height: 5.5rem;
+	color: #000000;
+	font-weight: normal;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+}
+
+h4{
+	display: block;
+	position: relative;
+	font-size: 2rem;
+	line-height: 2.5rem;
 	color: #000000;
 	font-weight: normal;
 	text-align: left;
