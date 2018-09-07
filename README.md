@@ -1,2 +1,2 @@
-# publicdocument.github.io
+# publicdocument.org
 Public Document
