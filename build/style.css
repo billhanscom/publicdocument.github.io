@@ -1,0 +1,94 @@
+<!DOCTYPE css>
+
+	/* publicdocument.org */
+
+html, body{
+	padding: 0px;
+	margin: 0px;
+	background-color: #ffffff;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+body{
+	font-size: 1rem;
+	font-family: "Libre Baskerville", "Times New Roman", serif;
+	min-height: 100vh;
+	padding-top: 5rem;
+	padding-left: 6rem;
+	padding-right: 2rem;
+	padding-bottom: 2rem;
+}
+
+div{
+	padding: 0px;
+	margin: 0px;
+	line-height: 6rem;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-hyphens: auto;
+  	-ms-hyphens: auto;
+  	hyphenate-limit-chars: auto 3;
+  	hyphenate-limit-lines: 3;
+  	hyphens: auto;
+}
+
+
+
+a{
+	color: #cccccc;
+	text-decoration: none;
+
+}
+
+a:link {
+	color: #00FFFF;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #00FFFF;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #FF00FF;
+	color: #FFFF00;
+}
+
+h2{
+	display: block;
+	position: relative;
+	font-size: 6rem;
+	color: #000000;
+	font-weight: normal;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+}
+
+h3{
+	display: block;
+	position: relative;
+	font-size: 4rem;
+	line-height: 5.5rem;
+	color: #000000;
+	font-weight: normal;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+}
+
+h4{
+	display: block;
+	position: relative;
+	font-size: 2rem;
+	line-height: 2.5rem;
+	color: #000000;
+	font-weight: normal;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+}
