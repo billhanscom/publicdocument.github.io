@@ -44,7 +44,7 @@ a{
 }
 
 a:link {
-	color: #00FFFF;
+	color: #FF00FF;
 	text-decoration: none;
 }
 
@@ -54,7 +54,7 @@ a:visited {
 }
 
 a:hover {
-	background-color: #FF00FF;
+	background-color: #00FFFF;
 	color: #FFFF00;
 }
 
